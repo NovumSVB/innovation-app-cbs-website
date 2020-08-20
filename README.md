@@ -15,79 +15,20 @@ could this be implemented, how to manage information streams, who will get acces
 
 ## Other systems
 Several other mock systems available, see the list below.
-<table>
-    <thead>
-        <tr>
-            <th>#</th>
-            <th>Government instance</th>
-            <th>-</th>
-            <th>-</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<tr>
-    <td>1</td>
-    <td>CBS</td>
-    <td><a href="https://api.cbs.demo.novum.nu">documentation</a></td>
-    <td><a href="https://api.cbs.demo.novum.nu">api</a>
-</tr>
-<tr>
-    <td>2</td>
-    <td>Basisregistratie inkomen</td>
-    <td><a href="https://api.belastingdienst.demo.novum.nu">documentation</a></td>
-    <td><a href="https://api.belastingdienst.demo.novum.nu">api</a>
-</tr>
-<tr>
-    <td>3</td>
-    <td>Digid</td>
-    <td><a href="https://api.digid.demo.novum.nu">documentation</a></td>
-    <td><a href="https://api.digid.demo.novum.nu">api</a>
-</tr>
-<tr>
-    <td>4</td>
-    <td>Sociale verzekeringsbank</td>
-    <td><a href="https://api.svb.demo.novum.nu">documentation</a></td>
-    <td><a href="https://api.svb.demo.novum.nu">api</a>
-</tr>
-<tr>
-    <td>5</td>
-    <td>UWV</td>
-    <td><a href="https://api.uwv.demo.novum.nu">documentation</a></td>
-    <td><a href="https://api.uwv.demo.novum.nu">api</a>
-</tr>
-<tr>
-    <td>6</td>
-    <td>Basisregistratie persoonsgegevens</td>
-    <td><a href="https://api.gemeente.demo.novum.nu">documentation</a></td>
-    <td><a href="https://api.gemeente.demo.novum.nu">api</a>
-</tr>
-<tr>
-    <td>7</td>
-    <td>Centraal justitieel incassobureau</td>
-    <td><a href="https://api.cjib.demo.novum.nu">documentation</a></td>
-    <td><a href="https://api.cjib.demo.novum.nu">api</a>
-</tr>
-<tr>
-    <td>8</td>
-    <td>Een overheid</td>
-    <td><a href="https://api.overheid.demo.novum.nu">documentation</a></td>
-    <td><a href="https://api.overheid.demo.novum.nu">api</a>
-</tr>
-<tr>
-    <td>9</td>
-    <td>Burger simulatie</td>
-    <td><a href="https://api.burger.demo.novum.nu">documentation</a></td>
-    <td><a href="https://api.burger.demo.novum.nu">api</a>
-</tr>
-<tr>
-    <td>10</td>
-    <td>Justitie en veiligheid</td>
-    <td><a href="https://api.justitie.demo.novum.nu">documentation</a></td>
-    <td><a href="https://api.justitie.demo.novum.nu">api</a>
-</tr>
-    </tbody>   
-</table>
+
+|#    | Government agency |   |   |
+|-----|-------------------|---|---|
+|1|CBS|https://api.cbs.demo.novum.nu|https://api.cbs.demo.novum.nu|
+|2|Basisregistratie inkomen|https://api.belastingdienst.demo.novum.nu|https://api.belastingdienst.demo.novum.nu|
+|3|Digid|https://api.digid.demo.novum.nu|https://api.digid.demo.novum.nu|
+|4|Sociale verzekeringsbank|https://api.svb.demo.novum.nu|https://api.svb.demo.novum.nu|
+|5|UWV|https://api.uwv.demo.novum.nu|https://api.uwv.demo.novum.nu|
+|6|Basisregistratie persoonsgegevens|https://api.gemeente.demo.novum.nu|https://api.gemeente.demo.novum.nu|
+|7|Centraal justitieel incassobureau|https://api.cjib.demo.novum.nu|https://api.cjib.demo.novum.nu|
+|8|Een overheid|https://api.overheid.demo.novum.nu|https://api.overheid.demo.novum.nu|
+|9|Burger simulatie|https://api.burger.demo.novum.nu|https://api.burger.demo.novum.nu|
+|10|Justitie en veiligheid|https://api.justitie.demo.novum.nu|https://api.justitie.demo.novum.nu|
+
 
 ## Try / have a look
 If you wish to have a look at the system, the API's are reachable trough the public internet or via 
@@ -110,5 +51,5 @@ It would be great if we could make these systems more realistic in terms of data
 functionality. Please feel free to submit a pull request or contact us whenever you feel like doing a contribution in 
 any way. 
     
-# More info
+## More info
 Please refer to the https://docs.demo.novum.nu.
