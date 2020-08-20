@@ -12,7 +12,7 @@
     },
     "license": "MIT",
     "prefer-stable": true,
-    "description": "This is the sourcecode of the  \"package\" that belongs to a fake \"CBS\" system",
+    "description": "A fake website that represents CBS.",
     "homepage": "https://innovatie.app.demo.novum.nu",
     "minimum-stability": "dev",
     "stability": "dev",
@@ -20,7 +20,7 @@
         "novum",
         "innovatie lab",
         "nlx",
-        "package"
+        "website"
     ],
     "require": {
         "PHP": ">=7.3"
