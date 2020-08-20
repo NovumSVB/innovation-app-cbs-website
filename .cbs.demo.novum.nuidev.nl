@@ -1,6 +1,0 @@
-SYSTEM_ID="novum.cbs"
-IS_DEVEL="1"
-SYSTEM_ROOT="/home/dev_novum_cbs/platform/system"
-DB_USER="dev_novum_cbs"
-DB_HOST="localhost"
-DB_PASS="A!!@!2ce29102ca91127"
