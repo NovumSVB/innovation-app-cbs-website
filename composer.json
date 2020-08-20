@@ -1,0 +1,41 @@
+{
+    "name": "novum/site-cbs.demo",
+    "type": "novum-site",
+    "autoload": {
+        "psr-4": {
+            "NovumCbs\\": "modules"
+        }
+    },
+    "dependencies": {
+        "hurah/hurah-installer": "*",
+        "novum/domain-cbs": "dev-master"
+    },
+    "license": "MIT",
+    "prefer-stable": true,
+    "description": "This is the sourcecode of the  \"package\" that belongs to a fake \"CBS\" system",
+    "homepage": "https://innovatie.app.demo.novum.nu",
+    "minimum-stability": "dev",
+    "stability": "dev",
+    "keywords": [
+        "novum",
+        "innovatie lab",
+        "nlx",
+        "package"
+    ],
+    "require": {
+        "PHP": ">=7.3"
+    },
+    "authors": [
+        {
+            "name": "Anton Boutkam",
+            "email": "anton@novum.nu"
+        },
+        {
+            "name": "Novum, het innovatielab van de Sociale Verzekeringsbank",
+            "email": "info@novum.nu"
+        }
+    ],
+    "devDependencies": {
+        "phpunit/phpunit": "^9.3.7"
+    }
+}

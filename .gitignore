@@ -1,0 +1,4 @@
+vendor/
+.live_domain
+.dev_domain
+.test_domain
