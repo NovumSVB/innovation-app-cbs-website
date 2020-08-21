@@ -34,5 +34,8 @@
     ],
     "require-dev": {
         "phpunit/phpunit": "^9.3.7"
+    },
+    "extra": {
+        "install_dir": "digid.demo.novum.nu"
     }
 }
