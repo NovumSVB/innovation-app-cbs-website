@@ -6,16 +6,11 @@
             "NovumCbs\\": "modules"
         }
     },
-    "dependencies": {
-        "hurah/hurah-installer": "*",
-        "novum/domain-cbs": "dev-master"
-    },
     "license": "MIT",
     "prefer-stable": true,
     "description": "A fake website that represents Centraal bureau voor de statistiek (CBS).",
     "homepage": "https://innovatie.app.demo.novum.nu",
     "minimum-stability": "dev",
-    "stability": "dev",
     "keywords": [
         "novum",
         "innovatie lab",
@@ -23,6 +18,8 @@
         "website"
     ],
     "require": {
+        "hurah/hurah-installer": "*",
+        "novum/domain-cbs": "dev-master",
         "PHP": ">=7.3"
     },
     "authors": [
@@ -35,7 +32,7 @@
             "email": "info@novum.nu"
         }
     ],
-    "devDependencies": {
+    "require-dev": {
         "phpunit/phpunit": "^9.3.7"
     }
 }
