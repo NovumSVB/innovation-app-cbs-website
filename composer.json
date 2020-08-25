@@ -37,6 +37,6 @@
         "phpunit/phpunit": "^9.3.7"
     },
     "extra": {
-        "install_dir": "digid.demo.novum.nu"
+        "install_dir": "cbs.demo.novum.nu"
     }
 }
