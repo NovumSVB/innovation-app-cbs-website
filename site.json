@@ -1,0 +1,18 @@
+{
+    "config_dir": "novum.cbs",
+    "namespace": "NovumCbs",
+    "site": {
+        "dev": {
+            "protocol": "http",
+            "domain": "cbs.demo.novum.nuidev.nl"
+        },
+        "test": {
+            "protocol": "https",
+            "domain": "cbs.test.demo.novum.nu"
+        },
+        "prod": {
+            "protocol": "https",
+            "domain": "cbs.demo.novum.nu"
+        }
+    }
+}
