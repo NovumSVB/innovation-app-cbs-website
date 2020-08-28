@@ -14,5 +14,6 @@
             "protocol": "https",
             "domain": "cbs.demo.novum.nu"
         }
-    }
+    },
+    "server_admin": "anton@novum.nu"
 }
